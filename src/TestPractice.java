@@ -6,6 +6,7 @@ public void TestPractice{
 		System.out.println("After creating folder from the command");
 		String str = "SourceTree";
 		System.out.println(str);
+		System.out.println("Changes done for to check push");
 
 	}
 }
