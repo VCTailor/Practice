@@ -9,6 +9,8 @@ public void TestPractice{
 		System.out.println("Changes done for to check push");
 		System.out.println("Changes done from intellij");
 		String str = "hello";
+		System.out.println(str);
+
 
 	}
 }
