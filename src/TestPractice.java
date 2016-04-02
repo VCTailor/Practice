@@ -7,6 +7,7 @@ public void TestPractice{
 		String str = "SourceTree";
 		System.out.println(str);
 		System.out.println("Changes done for to check push");
+		System.out.println("Changes done from intellij");
 
 	}
 }
