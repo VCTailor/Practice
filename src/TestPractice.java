@@ -11,6 +11,8 @@ public void TestPractice{
 		String str = "hello";
 		System.out.println(str);
 
+		int i =10;
+
 
 	}
 }
